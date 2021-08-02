@@ -6,8 +6,8 @@ public class Snehal_Example1 {
 		// TODO Auto-generated method stub
 		
 		{
-			System.out.println("welcome to github.");
-		}
+			System.out.println("welcome to github");
+			System.out.println("Welcome");		}
 
 
 
